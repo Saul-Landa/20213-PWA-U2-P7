@@ -15,7 +15,7 @@ self.addEventListener('install',(event)=>{
             `${ruta}index.html`,
             `${ruta}manifest.json`,
             `${ruta}img/user.png`,
-            `${ruta}js/camera.js`,
+            `${ruta}js/camara.js`,
             `${ruta}js/app.js`,
             `${ruta}img/icons/android-launchericon-48-48.png`,
             `${ruta}img/icons/android-launchericon-72-72.png`,
