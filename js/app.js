@@ -10,7 +10,7 @@ let photoUser = $("#fotoUser");
 
 let btnCamera = $("#btnCamara");
 let btnCameraBack = $("#btnCamaraBack");
-let btnTakePhoto = $("#btnCamaraBack");
+let btnTakePhoto = $("#btnTakeFoto");
 
 const camera = new Camera(player[0]);
 
